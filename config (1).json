@@ -1,0 +1,15 @@
+{
+  "botColor": "#5865F2",
+  "errorColor": "#FF0000",
+  "successColor": "#57F287",
+  "warningColor": "#FFA500",
+  "infoColor": "#00A8FF",
+  "prefix": "!",
+  "cooldownTime": 3000,
+  "defaultGiveawayDuration": 86400000,
+  "defaultVotingDuration": 86400000,
+  "maxProducts": 50,
+  "maxGiveaways": 10,
+  "embedFooter": "Advanced Discord Bot v2.0",
+  "embedTimestamp": true
+}
